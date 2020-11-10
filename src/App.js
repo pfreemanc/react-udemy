@@ -5,8 +5,8 @@ import Person from "./Person/Person";
 const App = (props) => {
   const [ personsState, setPersonsState ] = useState({
     persons: [
-      { name: "Park Jimin", age: 25 },
-      { name: "Min Yoongi", age: 28 },
+      { name: "Paige", age: 24 },
+      { name: "Gandalf", age: 2019 },
       { name: "Hwasa", age: 25 },
     ],
   });
